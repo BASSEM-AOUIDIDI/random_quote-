@@ -1,0 +1,39 @@
+.blanc{
+	background-color: white;
+	padding: 100px;
+	text-align: center;
+	margin: 0 auto;
+	/*margin-top: 30%;*/
+	border: inset grey 20px;
+	width: 50%;
+
+}
+.images{
+text-align: left;
+padding-left: 30px;
+
+}
+body{
+
+
+}
+h3{
+	text-align: right;
+	padding-right: 30px;
+}
+span{
+	font-size: 50px
+}
+button{
+	    position: relative;
+    left: 200px;
+    border: solid 3px;
+    color: green;
+    text-align: center;
+    font-size: 16px;
+
+
+}
+main{
+	/*height: 800px*/
+}
